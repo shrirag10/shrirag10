@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Hi there folks👋
+Its Shriman here. 
+Thanks for popping up on my Github page.
+🪪 Currently a masters student at Northeastern University. GO HUSKY 🚀🚀🚀
+🔭 Looking to upskill myself in the domain of robotics sensing and perception.
+👯Happy to collabrate with peers in the joyous adventure of learning robotics. 
+📫Reach out to me at shrirag10@gmail.com. 
+ Carpe Diem
 <!--
 **shrirag10/shrirag10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
