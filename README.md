@@ -19,7 +19,7 @@ Thanks for popping up on my Github page.
 
 - 👯 I’m looking to collaborate on **SLAM (Simultaneous Localization and Mapping)**
 
-- 🤝 I’m looking for help with **Robotics**
+- 🤝 I’m looking for help with **ISSAC SIM**
 
 - 💬 Ask me about **Industrial Robotics, AMR , Computer Vision, Robot Sensing , Sensor Fusion**
 
