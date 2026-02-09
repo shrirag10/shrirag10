@@ -62,7 +62,7 @@ Robotics Engineer with 2+ years deploying autonomous systems in manufacturing. M
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**VIGIL**](https://github.com/shrirag10/VIGIL) | AI-powered real-time forklift pedestrian detection system with 7 switchable YOLO/RT-DETR models, React dashboard, gRPC streaming, and Web Audio alarms | `YOLOv8` `YOLOv11` `RT-DETR` `FastAPI` `React` `gRPC` |
-| [**ROBUSTWALKER**](https://github.com/shrirag10/ROBUSTWALKER) | Robust walking robot platform with advanced control and navigation | `Python` `Control Systems` `Robotics` |
+| [**ROBUSTWALKER**](https://github.com/shrirag10/ROBUSTWALKER) | Deep RL blind locomotion for Unitree Go1 quadruped — PPO policy trained in MuJoCo with domain randomization for sim-to-real transfer | `PPO` `MuJoCo` `Stable-Baselines3` `PyTorch` `Gymnasium` |
 | [**Improved-LLM-A***](https://github.com/shrirag10/Improved-LLM-A-star) | Hybrid path planning combining A* search with LLM semantic waypoint guidance using cost-aware RePE-style prompting | `Python` `A*` `LLM` `Path Planning` |
 | [**3D-Mapping-RTAB-SLAM**](https://github.com/shrirag10/3D-Mapping-RTAB-SLAM) | 3D spatial mapping of sparse-featured environments using RTAB-Map for real-time appearance-based mapping | `RTAB-Map` `ROS` `SLAM` `3D Mapping` |
 | [**Robot-Sensing-Navigation**](https://github.com/shrirag10/Robot-Sensing-Navigation) | ROS-based robot sensing, IMU fusion, and autonomous navigation projects | `ROS` `IMU` `GPS` `Sensor Fusion` |
