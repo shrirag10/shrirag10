@@ -17,12 +17,12 @@
 
 ## About Me
 
-Built Tesla's autonomous forklift AMR program — SLAM, LiDAR path planning, 3D pallet vision → **$2.04M in projected cost savings**. Previously led factory automation at Hero MotoCorp. Now finishing my **MS in Robotics at Northeastern University** with research spanning legged locomotion, deep RL, and optical flow.
+Built Tesla's autonomous forklift AMR program: SLAM, LiDAR path planning, 3D pallet vision → **$2.04M in projected cost savings**. Previously led factory automation at Hero MotoCorp. Now finishing my **MS in Robotics at Northeastern University** with research spanning legged locomotion, deep RL, and optical flow.
 
-- 🎓 **MS in Robotics** — Northeastern University, Boston (GPA: 3.78) — Graduating 2026
-- ⚡ Former **Manufacturing Equipment Engineer Intern** — **Tesla Inc.**, Fremont, CA
-- 🤖 Former **Robotics Engineer** — **Hero MotoCorp**, India
-- 🎯 **Open to full-time roles** in Robotics, Autonomous Systems, Computer Vision — **August 2026**
+- 🎓 **MS in Robotics**, Northeastern University, Boston (GPA: 3.78), Graduating 2026
+- ⚡ Former **Manufacturing Equipment Engineer Intern** at **Tesla Inc.**, Fremont, CA
+- 🤖 Former **Robotics Engineer** at **Hero MotoCorp**, India
+- 🎯 **Open to full-time roles** in Robotics, Autonomous Systems, Computer Vision, **August 2026**
 
 ---
 
@@ -41,9 +41,9 @@ Built Tesla's autonomous forklift AMR program — SLAM, LiDAR path planning, 3D 
 
 ## 🔬 Currently Working On
 
-- 🦿 **Legged Locomotion** — Hybrid Zero Dynamics gait design and feedback linearization for bipedal robots
-- 🧠 **Deep RL for Manipulation** — TD-MPC2 policy learning for robotic interception tasks in Genesis sim
-- 👁️ **Optical Flow** — NeuFlow v3 architecture with implicit neural decoders for dense motion estimation
+- 🦿 **Legged Locomotion**: Hybrid Zero Dynamics gait design and feedback linearization for bipedal robots
+- 🧠 **Deep RL for Manipulation**: TD-MPC2 policy learning for robotic interception tasks in Genesis sim
+- 👁️ **Optical Flow**: NeuFlow v3 architecture with implicit neural decoders for dense motion estimation
 
 ---
 
@@ -51,26 +51,26 @@ Built Tesla's autonomous forklift AMR program — SLAM, LiDAR path planning, 3D 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**ROBUSTWALKER**](https://github.com/shrirag10/ROBUSTWALKER) | Deep RL blind locomotion for Unitree Go1 quadruped — PPO policy in MuJoCo with domain randomization, ~85x GPU speedup, 1.41 m/s learned gait | `PPO` `MuJoCo` `Stable-Baselines3` `PyTorch` |
-| [**Gait-Design**](https://github.com/shrirag10/Gait-Design) | HZD-based gait optimization & feedback linearization for 3-link bipedal robot — machine-precision periodicity (10⁻¹⁵), 1.048 m/s stable walking | `MATLAB` `Nonlinear Control` `Bézier` `Optimization` |
-| [**VIGIL**](https://github.com/shrirag10/VIGIL) | Real-time forklift pedestrian safety system — 7 switchable YOLO/RT-DETR models, React dashboard, gRPC streaming, Web Audio alarms | `YOLOv8` `YOLOv11` `RT-DETR` `FastAPI` `React` `gRPC` |
+| [**ROBUSTWALKER**](https://github.com/shrirag10/ROBUSTWALKER) | Deep RL blind locomotion for Unitree Go1 quadruped. PPO policy in MuJoCo with domain randomization, ~85x GPU speedup, 1.41 m/s learned gait | `PPO` `MuJoCo` `Stable-Baselines3` `PyTorch` |
+| [**Gait-Design**](https://github.com/shrirag10/Gait-Design) | HZD-based gait optimization & feedback linearization for 3-link bipedal robot. Machine-precision periodicity (10⁻¹⁵), 1.048 m/s stable walking | `MATLAB` `Nonlinear Control` `Bézier` `Optimization` |
+| [**VIGIL**](https://github.com/shrirag10/VIGIL) | Real-time forklift pedestrian safety system. 7 switchable YOLO/RT-DETR models, React dashboard, gRPC streaming, Web Audio alarms | `YOLOv8` `YOLOv11` `RT-DETR` `FastAPI` `React` `gRPC` |
 | [**LatentIntercept**](https://github.com/shrirag10/LatentIntercept) | TD-MPC2 + Genesis: Franka arm learns to intercept sliding objects (air-hockey RL) with latent dynamics model | `TD-MPC2` `Genesis` `PyTorch` `RL` |
-| [**Neuflowv3**](https://github.com/shrirag10/Neuflowv3) | NeuFlow v2 + implicit neural decoder (InfiniDepth-style 3-scale fusion) — best EPE: 3.15px on VKITTI2 | `PyTorch` `Optical Flow` `Neural Decoder` |
-| [**Improved-LLM-A***](https://github.com/shrirag10/Improved-LLM-A-star) | Hybrid path planner combining A* with LLM semantic waypoint guidance — ~21.6% reduction in node exploration on 20×20 grids | `Python` `A*` `LLM` `Path Planning` |
-| [**3D-Mapping-RTAB-SLAM**](https://github.com/shrirag10/3D-Mapping-RTAB-SLAM) | RTABMap SLAM for sparse-featured environments (Northeastern tunnel system) — ROS 2 Humble, multi-sensor (ZED Mini, RealSense) | `RTAB-Map` `ROS 2` `SLAM` `3D Mapping` |
-| [**RLVR**](https://github.com/shrirag10/RLVR) | Reinforcement Learning with Verifiable Rewards — training LLMs with outcome-based reward signals | `Python` `RL` `LLM` `Reward Modeling` |
+| [**Neuflowv3**](https://github.com/shrirag10/Neuflowv3) | NeuFlow v2 + implicit neural decoder (InfiniDepth-style 3-scale fusion). Best EPE: 3.15px on VKITTI2 | `PyTorch` `Optical Flow` `Neural Decoder` |
+| [**Improved-LLM-A***](https://github.com/shrirag10/Improved-LLM-A-star) | Hybrid path planner combining A* with LLM semantic waypoint guidance. ~21.6% reduction in node exploration on 20×20 grids | `Python` `A*` `LLM` `Path Planning` |
+| [**3D-Mapping-RTAB-SLAM**](https://github.com/shrirag10/3D-Mapping-RTAB-SLAM) | RTABMap SLAM for sparse-featured environments (Northeastern tunnel system). ROS 2 Humble, multi-sensor (ZED Mini, RealSense) | `RTAB-Map` `ROS 2` `SLAM` `3D Mapping` |
+| [**RLVR**](https://github.com/shrirag10/RLVR) | Reinforcement Learning with Verifiable Rewards. Training LLMs with outcome-based reward signals | `Python` `RL` `LLM` `Reward Modeling` |
 
 ---
 
 ## Experience
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" width="18"/> Tesla Inc. — Manufacturing Equipment Engineer Intern
+### <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" width="18"/> Tesla Inc. | Manufacturing Equipment Engineer Intern
 **Fremont, CA | Apr 2025 – Dec 2025**
 - Led autonomous forklift AMR deployment (SLAM + LiDAR + 3D pallet vision) → **$2.04M projected savings**
 - Penalty-optimized Theta* path planning → **83% routing complexity reduction**
 - Built RAG-based AI LLM agent for machine docs → **17% faster diagnostics**
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hero_MotoCorp_Logo.svg/320px-Hero_MotoCorp_Logo.svg.png" width="18"/> Hero MotoCorp — Assistant Manager / Robotics Engineer
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hero_MotoCorp_Logo.svg/320px-Hero_MotoCorp_Logo.svg.png" width="18"/> Hero MotoCorp | Assistant Manager / Robotics Engineer
 **India | 2022 – 2024**
 - AMR/RGV fleet automation → **23% profitability increase**
 - Zero-height pallet lifters → **67% pallet unloading time reduction**
@@ -156,9 +156,9 @@ Built Tesla's autonomous forklift AMR program — SLAM, LiDAR path planning, 3D 
 
 <div align="center">
 
-*Robots, SLAM, and path planning — shipping code, not excuses.*
+*Robots, SLAM, and path planning. Shipping code, not excuses.*
 
-**Seeking full-time roles in Robotics & Autonomous Systems — Available August 2026**
+**Seeking full-time roles in Robotics & Autonomous Systems | Available August 2026**
 
 **Ask me about:** SLAM, AMR Systems, Legged Locomotion, Deep RL, Sensor Fusion, Path Planning, Computer Vision
 
